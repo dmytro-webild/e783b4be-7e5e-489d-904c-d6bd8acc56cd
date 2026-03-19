@@ -90,19 +90,19 @@ export default function LandingPage() {
             {
               id: 1,
               title: "Live Race Leaderboards",              description: "Real-time driver positions, lap times, and gap analysis updated every second during races.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-displaying-a-real-time-f1-1773951926057-f52dbe0b.png",                imageAlt: "Mobile showing live race leaderboard"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-displaying-a-real-time-f1-1773951926057-f52dbe0b.png?_wi=1",                imageAlt: "Mobile showing live race leaderboard"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-showing-an-ai-powered-rac-1773951925776-df6ecb93.png",                imageAlt: "Mobile showing AI prediction interface"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-showing-an-ai-powered-rac-1773951925776-df6ecb93.png?_wi=1",                imageAlt: "Mobile showing AI prediction interface"
               }
             },
             {
               id: 2,
               title: "AI Prediction Engine",              description: "Machine learning models analyze historical data, driver form, and track conditions for podium predictions.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-showing-an-ai-powered-rac-1773951925776-df6ecb93.png",                imageAlt: "AI prediction confidence scores display"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-showing-an-ai-powered-rac-1773951925776-df6ecb93.png?_wi=2",                imageAlt: "AI prediction confidence scores display"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-displaying-a-real-time-f1-1773951926057-f52dbe0b.png",                imageAlt: "Race telemetry data visualization"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BB9oYu6wjJLXa75GpLKrYHcGcx/a-mobile-phone-displaying-a-real-time-f1-1773951926057-f52dbe0b.png?_wi=2",                imageAlt: "Race telemetry data visualization"
               }
             }
           ]}
